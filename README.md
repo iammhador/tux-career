@@ -99,7 +99,7 @@
 | Company | Career Page | Connection (TG) | Role |
 |---|---|---|---|
 | Soft Robotics | [softrobotics.com.bd/career](https://www.softrobotics.com.bd/career) | — | — |
-| AppifyLab | [appifylab.com](https://www.appifylab.com/) | — | — |
+| AppifyLab | [appifylab.com](https://www.appifylab.com/career) | — | — |
 | Next Ventures | [nextventuresltd.com/career](https://nextventuresltd.com/) | — | — |
 | DSI Innovators | [dsiinnovators.com/career](https://www.dsiinnovators.com/) | — | — |
 | LEADS Corporation | [leadscorporation.com/career](https://leadscorporation.com/) | — | — |
